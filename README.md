@@ -1,10 +1,10 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No.6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+ 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
 ## REQUIREMENTS:
-### System - Windows 7 or higher, 1 GB RAM. 
+### System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 ### Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
@@ -39,14 +39,12 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![EXP6 1](https://github.com/priyadharshini225/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849213/1dc2d0c3-49fd-4cf2-a320-4c40b6d438d6)
+![EXP6 1 1](https://github.com/priyadharshini225/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849213/1e01a938-5da7-4fd3-8379-340a76d1deec)
 
-## Output:
 
-### Name:
-### Register Number:
+### Name: nithish s
+### Register Number: 24900630
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
